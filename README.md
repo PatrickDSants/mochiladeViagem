@@ -25,7 +25,7 @@
 <p>Um projeto feito através da alura sobre um site com uma mochila de viagens virtual, onde você pode por itens e tiralos e tudo fica salvo no seu localstorage.</p>
   
 ![Captura de Tela (186)](https://user-images.githubusercontent.com/94023842/184701998-da6c7548-f202-45d3-956a-dd6220255079.png)
- )
+ 
 
 </div>
 
